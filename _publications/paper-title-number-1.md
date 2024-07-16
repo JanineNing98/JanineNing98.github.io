@@ -3,7 +3,7 @@ title: "Sequence Q-Learning Algorithm for Optimal Mobility-Aware User Associatio
 collection: publications
 permalink: /publication/paper-title-number-1
 excerpt: '\textbf{Wanjun Ning}, Zimu Xu, Jingjin Wu and Tiejun Tong, “Sequence Q-Learning Algorithm for Optimal Mobility-Aware User Association,” \textit{In 2022 IEEE International Conference on Communications (ICC)}, 2022, pp. 726-732. '
-date: 2021
+date: 2022
 venue: 'IEEE International Conference on Communications (ICC)'
 paperurl: 'http://JanineNing98.Sequence_Q-Learning_Algorithm_for_Optimal_Mobility-Aware_User_Association.pdf'
 ---
